@@ -5,20 +5,13 @@
 
 ## I'm Abyner Rocha!
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-end Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil and Living in Portugal.
 
 :books: I’m currently learning everything.
 
 ## About me
-
-<a href="https://github.com/AbynerRocha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbynerRocha&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-<a href="https://github.com/AbynerRocha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbynerRocha&theme=dark&hide_langs_below=1" />
-</a>
 
 <br>
 
